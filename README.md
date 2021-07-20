@@ -5,7 +5,7 @@
 ## Languages and Tools
 <p align="left"> 
  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="margin:10px;" alt="c" width="40" height="40"/> </a> 
- <a href="https://en.cppreference.com/w/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cpp/cpp-original.svg" style="margin:10px;" alt="cpp" width="40" height="40"/> </a>
+ <a href="https://en.cppreference.com/w/" target="_blank"> <img src="https://www.google.com/search?q=c%2B%2B+image&rlz=1C1CHWL_enIN914IN914&sxsrf=ALeKk003Sd8zYXR_Nt3LDAOmiuMPmogH5Q:1626759266234&tbm=isch&source=iu&ictx=1&fir=6SAxmANLYTa7xM%252ClhWTqnaZLbhfnM%252C_&vet=1&usg=AI4_-kSpzO5RG02TFqltbjMbj_uHrDJIRw&sa=X&ved=2ahUKEwjzi8vB9vDxAhXz5nMBHYc2DPwQ9QF6BAgNEAE&biw=1536&bih=792#imgrc=6SAxmANLYTa7xM" style="margin:10px;" alt="cpp" width="40" height="40"/> </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="margin:10px;" alt="javascript" width="40" height="40"/> </a> 
  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="margin:10px;" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="margin:10px;" alt="css3" width="40" height="40"/> </a>
