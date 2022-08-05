@@ -1,5 +1,5 @@
 # Hi 👋, I'm Rama Chaitanya
-## 🎓 Pre-Final Year Student NITA'23
+## 🎓 Final Year Student NITA'23
 <h2 style="font-weight:bold;">UG Student Interested in Web Development</h2>
 
 ## Languages and Tools
