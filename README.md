@@ -1,6 +1,6 @@
 ## Hello, I'm Chaitu! 👋
 
-I'm a software engineer passionate about building scalable web applications, APIs, and improving product stability. 
+I'm a software engineer passionate about problem solving working at GEP Worldwide, currently working in procurement doamin.
 
 ### Day-to-Day Work:
 - **Building Business Processes**: Developing efficient business workflows from scratch.
